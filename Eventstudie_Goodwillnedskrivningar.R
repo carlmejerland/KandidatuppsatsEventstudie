@@ -2,7 +2,7 @@
 # Kandidatarbete i externredovisning
 # Författare: Simon Brandhammar & Car Mejerland
 # Titel: Marknadsreaktionen på Goodwillnedskrivningar
-# Datum: [ÅÅÅÅ-MM-DD]
+# Datum: [2025-06-04]
 # Fil: Kandidat_Kod
 # Syfte: Eventstudie för att mäta CAAR vid goodwillnedskrivningar
 # ==========================================
